@@ -1,0 +1,15 @@
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/CMakeFiles/LPBAlgorithm_bin.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/CMakeFiles/ALL_BUILD.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/CMakeFiles/ZERO_CHECK.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glad/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glad/CMakeFiles/glad.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glad/CMakeFiles/ALL_BUILD.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glad/CMakeFiles/ZERO_CHECK.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glfw/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glfw/CMakeFiles/ALL_BUILD.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glfw/CMakeFiles/ZERO_CHECK.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glfw/src/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/glfw/src/CMakeFiles/glfw.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/imgui/CMakeFiles/install.dir
+/Users/silviojin/compM080-compGV18-2019/courseworks/LPB/build/imgui/CMakeFiles/imgui.dir
