@@ -10,3 +10,6 @@ The project computes the La-Place Beltrami operator and applies it in different 
 
 For details see : report.pdf
 
+![alt text](https://github.com/SilvioJin/LBP/blob/master/images/spectral%20analysis%20bunny.png)
+
+![alt text](https://github.com/SilvioJin/LBP/blob/master/images/smoothing%20cow.png)
